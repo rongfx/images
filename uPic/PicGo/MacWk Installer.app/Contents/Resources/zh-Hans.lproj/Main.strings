@@ -1,0 +1,57 @@
+
+/* Class = "NSMenuItem"; title = "MacWk Installer"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "MacWk Installer";
+
+/* Class = "NSMenuItem"; title = "Quit MacWk Installer"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit MacWk Installer";
+
+/* Class = "NSMenuItem"; title = "About MacWk Installer"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About MacWk Installer";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "MacWk Installer Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "MacWk Installer Help";
+
+/* Class = "NSButtonCell"; title = "取消"; ObjectID = "FRG-OM-cfG"; */
+"FRG-OM-cfG.title" = "取消";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "Bring All to Front";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "Minimize";
+
+/* Class = "NSMenuItem"; title = "Hide MacWk Installer"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide MacWk Installer";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "Zoom";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "Window";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "好"; ObjectID = "rm6-Em-By7"; */
+"rm6-Em-By7.title" = "好";
+
+/* Class = "NSMenu"; title = "MacWk Installer"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "MacWk Installer";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";
