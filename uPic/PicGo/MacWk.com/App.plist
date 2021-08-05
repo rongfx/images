@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARCH</key>
+	<string>x86_64</string>
+	<key>CBY</key>
+	<string>none</string>
+	<key>DMG</key>
+	<string>PicGo</string>
+	<key>REQUIREDDISABLESIP</key>
+	<integer>0</integer>
+	<key>SLUG</key>
+	<string>picgo</string>
+	<key>STATUS</key>
+	<string>opensource</string>
+	<key>TEAM</key>
+	<string>oi</string>
+	<key>WEBSITE</key>
+	<string>https://molunerfinn.com/PicGo/</string>
+</dict>
+</plist>
