@@ -1,0 +1,5 @@
+owner: Molunerfinn
+repo: PicGo
+provider: github
+releaseType: draft
+updaterCacheDirName: picgo-updater
